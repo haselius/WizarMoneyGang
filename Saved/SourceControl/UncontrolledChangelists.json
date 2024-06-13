@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/haselius/Documents/unreal/WMG/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/16/IU32BEDS8KCRBPZIQZ3317.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/R1/ENMI5ZSH5EMTVMF7P7JJ6A.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/D3/60ORICH9SPD98P0GDB2WTP.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/TopDown/Blueprints/BP_BasicEnemy.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/8AKCSH4RXXQHHQMCR8GO6C.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/P2/JTYDT1THKJY57Q57KHNNMR.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/8T/AYS2OUTD0E60WV7WUC5V5K.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/Animations/Ai/BasicEnemyWalk.uasset",
+				"C:/Users/haselius/Documents/unreal/WMG/Content/Animations/Ai/BP_EnemyAIAnim.uasset",
 				"C:/Users/2311a/OneDrive/Documents/Unreal Projects/BestGaymEver/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/2311a/OneDrive/Documents/Unreal Projects/BestGaymEver/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_Flamethrower1.uasset",
 				"C:/Users/2311a/OneDrive/Documents/Unreal Projects/BestGaymEver/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
@@ -15,12 +27,7 @@
 				"C:/Users/2311a/OneDrive/Documents/Unreal Projects/WizarMoneyGang/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"C:/Users/2311a/OneDrive/Documents/Unreal Projects/WizarMoneyGang/Content/__ExternalActors__/TopDown/Maps/TopDownMap/F/29/1OQRITN70NS5RFX7EMQ0I1.uasset",
 				"C:/Users/2311a/OneDrive/Documents/Unreal Projects/WizarMoneyGang/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/1P/Y4XBOZSREBT4D8ZPZHG4SI.uasset",
-				"C:/Users/2311a/OneDrive/Documents/Unreal Projects/WizarMoneyGang/Content/TopDown/Maps/TopDownMap.umap",
-				"C:/Users/haselius/Documents/unreal/WMG/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset",
-				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/16/IU32BEDS8KCRBPZIQZ3317.uasset",
-				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/R1/ENMI5ZSH5EMTVMF7P7JJ6A.uasset",
-				"C:/Users/haselius/Documents/unreal/WMG/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/D3/60ORICH9SPD98P0GDB2WTP.uasset"
+				"C:/Users/2311a/OneDrive/Documents/Unreal Projects/WizarMoneyGang/Content/TopDown/Maps/TopDownMap.umap"
 			]
 		}
 	]
